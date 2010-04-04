@@ -1,0 +1,296 @@
+TBonfire
+v7
+r1
+cCheck dependencies
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/Default.png
+c0000000048E56596000000000002059D
+t1222993302
+s132509
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/FlipsideView.xib
+c0000000048E5615A0000000000002C01
+t1222992218
+s11265
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/Images/campFire01.gif
+c0000000048B1E4CE000000000000E48B
+t1219617998
+s58507
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/Images/campFire02.gif
+c0000000048B1E50C000000000000F4BF
+t1219618060
+s62655
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/Images/campFire03.gif
+c0000000048B1E52C000000000000DFB7
+t1219618092
+s57271
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/Images/campFire04.gif
+c0000000048B1E54E000000000000ECA4
+t1219618126
+s60580
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/Images/campFire05.gif
+c0000000048B1E574000000000000F5A6
+t1219618164
+s62886
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/Images/campFire06.gif
+c0000000048B1E590000000000000E9CD
+t1219618192
+s59853
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/Images/campFire07.gif
+c0000000048B1E5AA000000000000EC7B
+t1219618218
+s60539
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/Images/campFire08.gif
+c0000000048B1E5C2000000000000E618
+t1219618242
+s58904
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/Images/campFire09.gif
+c0000000048B1E5E8000000000000E452
+t1219618280
+s58450
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/Images/campFire10.gif
+c0000000048B1E600000000000000ED7E
+t1219618304
+s60798
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/Images/campFire11.gif
+c0000000048B1E616000000000000EB43
+t1219618326
+s60227
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/Images/campFire12.gif
+c0000000048B1E62C000000000000E88A
+t1219618348
+s59530
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/Images/campFire13.gif
+c0000000048B1E642000000000000F17B
+t1219618370
+s61819
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/Images/campFire14.gif
+c0000000048B1E65C000000000000EBDE
+t1219618396
+s60382
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/Images/campFire15.gif
+c0000000048B1E67A000000000000EB15
+t1219618426
+s60181
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/Images/campFire16.gif
+c0000000048B1E6A6000000000000F79A
+t1219618470
+s63386
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/Images/campFire17.gif
+c0000000048B1E6C0000000000000DA26
+t1219618496
+s55846
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/Images/campfire.png
+c0000000048B1D6A40000000000000F7D
+t1219614372
+s3965
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/MainView.xib
+c0000000048E4E89E000000000000189F
+t1222961310
+s6303
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/MainWindow.xib
+c0000000048E569F40000000000003019
+t1222994420
+s12313
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Info.plist
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/FlipsideView.nib
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/MainView.nib
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/campFire01.gif
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/campFire02.gif
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/campFire03.gif
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/campFire04.gif
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/campFire05.gif
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/campFire06.gif
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/campFire07.gif
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/campFire08.gif
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/campFire09.gif
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/campFire10.gif
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/campFire11.gif
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/campFire12.gif
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/campFire13.gif
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/campFire14.gif
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/campFire15.gif
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/campFire16.gif
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/campFire17.gif
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Resources/campfire.png
+t2
+s0
+
+NInfo.plist
+c0000000048E564F8000000000000038D
+t1222993144
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292058400#292058400#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos2.0'1(4@58"error: There is no SDK with the name or path 'iphoneos2.0'292058400#18446744073709551615#0#0(1@0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileXIB /Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/FlipsideView.xib
+r0
+
+CCompileXIB /Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/MainView.xib
+r0
+
+CCompileXIB /Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/MainWindow.xib
+r0
+
+CCpResource build/Debug/Bonfire.app/Contents/Resources/Default.png Default.png
+r0
+
+CCpResource build/Debug/Bonfire.app/Contents/Resources/campFire01.gif Images/campFire01.gif
+r0
+
+CCpResource build/Debug/Bonfire.app/Contents/Resources/campFire02.gif Images/campFire02.gif
+r0
+
+CCpResource build/Debug/Bonfire.app/Contents/Resources/campFire03.gif Images/campFire03.gif
+r0
+
+CCpResource build/Debug/Bonfire.app/Contents/Resources/campFire04.gif Images/campFire04.gif
+r0
+
+CCpResource build/Debug/Bonfire.app/Contents/Resources/campFire05.gif Images/campFire05.gif
+r0
+
+CCpResource build/Debug/Bonfire.app/Contents/Resources/campFire06.gif Images/campFire06.gif
+r0
+
+CCpResource build/Debug/Bonfire.app/Contents/Resources/campFire07.gif Images/campFire07.gif
+r0
+
+CCpResource build/Debug/Bonfire.app/Contents/Resources/campFire08.gif Images/campFire08.gif
+r0
+
+CCpResource build/Debug/Bonfire.app/Contents/Resources/campFire09.gif Images/campFire09.gif
+r0
+
+CCpResource build/Debug/Bonfire.app/Contents/Resources/campFire10.gif Images/campFire10.gif
+r0
+
+CCpResource build/Debug/Bonfire.app/Contents/Resources/campFire11.gif Images/campFire11.gif
+r0
+
+CCpResource build/Debug/Bonfire.app/Contents/Resources/campFire12.gif Images/campFire12.gif
+r0
+
+CCpResource build/Debug/Bonfire.app/Contents/Resources/campFire13.gif Images/campFire13.gif
+r0
+
+CCpResource build/Debug/Bonfire.app/Contents/Resources/campFire14.gif Images/campFire14.gif
+r0
+
+CCpResource build/Debug/Bonfire.app/Contents/Resources/campFire15.gif Images/campFire15.gif
+r0
+
+CCpResource build/Debug/Bonfire.app/Contents/Resources/campFire16.gif Images/campFire16.gif
+r0
+
+CCpResource build/Debug/Bonfire.app/Contents/Resources/campFire17.gif Images/campFire17.gif
+r0
+
+CCpResource build/Debug/Bonfire.app/Contents/Resources/campfire.png Images/campfire.png
+r0
+
+CProcessInfoPlistFile /Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/fmeyer/code/iphone/sampleapps/31apps/bonfire/build/Debug/Bonfire.app
+r0
+

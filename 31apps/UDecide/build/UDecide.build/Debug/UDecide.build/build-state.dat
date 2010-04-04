@@ -1,0 +1,75 @@
+TUDecide
+v7
+r1
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/UDecide/FlipsideView.xib
+c0000000048F1F6CA000000000000282D
+t1223816906
+s10285
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/UDecide/MainView.xib
+c0000000048F1F7290000000000006C1F
+t1223817001
+s27679
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/UDecide/MainWindow.xib
+c0000000048F1E9BE00000000000030C9
+t1223813566
+s12489
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/UDecide/UDecide.png
+c0000000048F1F9920000000000001DD2
+t1223817618
+s7634
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/UDecide/build/Debug/UDecide.app
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/UDecide/build/Debug/UDecide.app/Contents/Info.plist
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/UDecide/build/Debug/UDecide.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/UDecide/build/Debug/UDecide.app/Contents/Resources/FlipsideView.nib
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/UDecide/build/Debug/UDecide.app/Contents/Resources/MainView.nib
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/UDecide/build/Debug/UDecide.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/fmeyer/code/iphone/sampleapps/31apps/UDecide/build/Debug/UDecide.app/Contents/Resources/UDecide.png
+t2
+s0
+
+NInfo.plist
+c0000000048F1FD830000000000000388
+t1223818627
+s904
+
+CCompileXIB /Users/fmeyer/code/iphone/sampleapps/31apps/UDecide/FlipsideView.xib
+r0
+
+CCompileXIB /Users/fmeyer/code/iphone/sampleapps/31apps/UDecide/MainView.xib
+r0
+
+CCompileXIB /Users/fmeyer/code/iphone/sampleapps/31apps/UDecide/MainWindow.xib
+r0
+
+CCpResource build/Debug/UDecide.app/Contents/Resources/UDecide.png UDecide.png
+r0
+
+CProcessInfoPlistFile /Users/fmeyer/code/iphone/sampleapps/31apps/UDecide/build/Debug/UDecide.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/fmeyer/code/iphone/sampleapps/31apps/UDecide/build/Debug/UDecide.app
+r0
+
