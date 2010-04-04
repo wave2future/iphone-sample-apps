@@ -1,0 +1,4 @@
+build
+FreshbooksTimer.xcodeproj/*.mode1v3
+FreshbooksTimer.xcodeproj/*.pbxuser
+.DS_Store
